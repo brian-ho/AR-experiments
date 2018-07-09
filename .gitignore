@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Rhino stuff
+*.3dmbak
+*.rhl
